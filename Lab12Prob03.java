@@ -14,7 +14,7 @@ public class Lab12Prob03 {
 	} public static String reverse(String s, int index) {
 		
 		if (index == 0) {
-			return String.valueOf(s.charAt(index));
+			return "" + s.charAt(index);
 		} else {
 			return s.charAt(index) + reverse(s, index - 1);
 		}
