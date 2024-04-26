@@ -1,4 +1,9 @@
-
+/* 
+ * Name : Tirth Patel, Wilson Tran
+ * Course : CSCI 1302
+ * Description : Recursively find value of a function.
+ * Last Modified : April 26 2024
+ */
 public class Lab12Prob01 {
 
 	public static void main(String[] args) {
